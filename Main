@@ -1,0 +1,5 @@
+class Main {
+    public void asd() {
+        System.out.println("치치");
+    }
+}
